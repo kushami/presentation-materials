@@ -4,7 +4,7 @@
 
 ## 自己紹介
 
-![prof](../common/prof/icon.png)
+![prof](common/prof/icon.png)
 - ニックネーム: くしゃみん
 - 所属: システム本部 セキュリティチーム(仮)
 - Twitter ID: [@\_kshun\_](https://twitter.com/_kshun_)
@@ -24,7 +24,7 @@
 
 ### 注意事項
 
-![tw001](img/tw001.png)
+![tw001](20180817_vglt/img/tw001.png)
 
 [](https://twitter.com/_kshun_/status/1029337923844358144)
 
@@ -32,7 +32,7 @@
 
 ### 注意事項
 
-![tw002](img/tw002.png)
+![tw002](20180817_vglt/img/tw002.png)
 
 [](https://twitter.com/_kshun_/status/1029338092161785857)
 
@@ -40,7 +40,7 @@
 
 ### 注意事項
 
-![tw003](img/tw003.png)
+![tw003](20180817_vglt/img/tw003.png)
 
 [](https://twitter.com/_kshun_/status/1029338870129647616)
 
